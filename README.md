@@ -5,6 +5,16 @@ A highly structured, object-oriented console application designed to manage hous
 > **Status: Active Development / Architectural Refactoring Phase**
 > *Note: The core features are fully functional, but the project is undergoing a data-structure redesign to improve scalability and user onboarding.*
 
+## 🧠 Development Methodology & Learning Focus
+
+This project serves as a deep-dive learning sandbox for modern software development:
+
+* **Logic & Architecture:** Designed entirely by me, focusing on object-oriented programming (OOP) principles, custom data models, and user experience (UX).
+* **AI-Assisted Engineering:** The actual syntax and boilerplate code were generated and structured using AI assistance. I used this workflow to quickly bridge the gap between abstract logical concepts (learned in university) and production-ready C++ code.
+* **Code Understanding:** Detailed docstrings and internal explanations were purposely generated to help me trace code execution, track variable lifetimes, and deeply understand complex C++ concepts during my study.
+* **My Role:** System Architect, QA/Testing, and Logic Design.
+
+
 ## 🚀 Key Features (Fully Functional)
 
 * **Multi-Layer Architecture:** Strict separation between `main.cpp`, UI rendering (`DashboardUI`), business logic (`DashboardLogic`), and the core execution environment (`HouseholdPlannerEngine`).
